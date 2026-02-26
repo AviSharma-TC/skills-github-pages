@@ -1,8 +1,3 @@
----
-title: Test Web Page
-description: A simple test page written in Markdown.
----
-
 # Test Web Page
 
 > This is a **test page** to validate typography, spacing, links, lists, tables, code blocks, and common UI sections.
